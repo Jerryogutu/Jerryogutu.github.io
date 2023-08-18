@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="mystyle.css">
+    <meta charset="utf-8">
+    <title> TEACHERS SERVICE COMMISSION TO EMPLOY 55000 TEACHERS ON P&P TERMS</title>
+    <style>
+        .lonely-warrior {
+            color:crimson;
+            font-style: monospace;
+            text-align: center;
+            padding: 30px;  
+        }
+        .photo-gallery{
+            padding: 29px;
+        }
+        #lonely-warrior {
+            background-color: aqua;
+            width: 80%;
+            height: 230px;
+            overflow: auto;
+            margin: 15px 0px 10px 6px;
+
+        }
+            
+            .image-small {
+                width: 150px;
+            }
+            .image-medium {
+                width: 200px;
+            }
+            .black-frame {
+                border: 8px double rgb(38, 38, 38);
+                width:200px;
+            }
+            .gold-frame {
+                border: 10px ridge rgb(255, 183, 0);
+            }
+            .silver-frame {
+                border: 10px groove rgb(204, 204, 204);
+        #Thim-lich {
+background-color: whitesmoke;
+        }
+        .lovey-dovey {
+            color:rgb(233, 20, 20)
+        }
+    h2 {
+        color: rgb (0, 232, 15);
+    }
+    h1 {
+        color: orangered;
+        font-size: 2em;
+    }
+    h3 { color: rgba(16, 14, 151, 0.808);
+    }
+    #multibilion-gate{
+        width: 170px;
+        border: 8px ridge rgb(21, 172, 84);
+        margin-top: 15px;
+        margin-right: 20px;
+        margin-inline-end:16px;
+    }
+#Ruto{
+    border: 4px ridge rgb(126, 11, 235);
+    margin-top: 19px;
+    margin-left: 10px;
+    margin-right: 23px;
+    position:absolute;
+    bottom: -80px;
+    right: 80px;
+    z-index: 1;
+}
+#istockphoto{
+    width: 170px;
+        border: 8px ridge rgb(8, 187, 53);
+        margin-top: 15px;
+        margin-right: 20px;
+        margin-inline-end:16px;
+        position:absolute;
+    bottom: -100px;
+    right: 100px;
+    z-index: 2;
+    }
+    #tutorials-point{
+        width: 170px;
+        border: 8px ridge rgb(116, 18, 228);
+        margin-top: 15px;
+        margin-right: 20px;
+        margin-inline-end:16px;   
+    }
+#fasting-magics {
+    background-color: darkred;
+}
+    #raila {
+        background-color: mediumspringgreen;
+    }
+    #tsc-employment {
+        background-color: yellow;
+        font-style: italic;
+        text-decoration: underline;
+        }
+.resilience-poem {
+    background-color: yellowgreen;
+    font-family: cursive;
+    text-align: center;
+    line-height: 1.5em;
+    font-weight: bold;
+    }
+    #tsc-interns-teachers {
+        background-color: darkmagenta;
+        font-weight: bold;
+    }
+    p {font-family: 'Times New Roman', Times, serif;}
+body{
+background-color:lightblue;
+font-size: 18px;
+    }
+    #resilience-poem {
+       width: 1000px; 
+       margin-left: 200px;
+       margin:auto;
+       border: 2px solid rgb(0, 232, 15);
+    }
+    .decided{
+        border: 5px solid orange;
+                background-color: red;
+                color: white;
+    }
+    </style>
+    </head>
+    <BODY>
+        <div id="resilience-poem">
+            <p>We have used inlne CSS style on h1</p>
+        <h1 style="background:rgb(190, 140, 128); color: black;">TEACHERS <span class="lovey-dovey">SERVICE</span> COMMISSION TO EMPLOY 55000 TEACHERS ON P&P TERMS</h1>
+        <p id="CSS-shorthand">This is CSS styles and shorthand. <br> This style helps one to give a paragraph a style they need. <br> eg: <br> Italic (font-style) <br> bold (font weight)</p>
+
+        <h2 id="tsc-interns-teachers"> TSC intends to employ teachers both on interns and P&P terms </h2>
+        <p id="tsc-employment"> The TSC has made a major asseveration on how it will be absorbing teachers in the near future. <br> This comes nshortly after the president of the republic of Kenya had promised his goverment would employ more than 1 million teachers in a span of 10 years.<br> To visit the site, click the link below</p>
+        <p> <a href= "https://hrmis.tsc.go.ke/app/login"> hrmis.tsc.go.ke/</a></p>
+        <style>
+            #CSS {
+                color:rgb(83, 43, 226)
+            }
+        </style>
+<P id="CSS"> The process of recruiting teachers seems to be a very lucrative practice to the politicians who are seen posting videos and letters inviting teachers to certain closed door meetings.<br> This comes after the Mp for Kiharu constituency posted on his social media page a letter invinting all the non-employed teachers from his area to a meeting.</P>
+
+
+    </BODY>
+    <style>
+        /* Style the element with the id "myHeader" */
+#myHeader {
+  background-color: rgb(35, 9, 180);
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+<h4> <style="color:DodgerBlue;">Visiting granny over the holiday.</h4>
+
+<p style="Color:Tomato;">Visiting granny was the best thing ever. What a nice experience in the village. Being in the village is only compared to the experince one has while on flight. Sounds a real life.</p>
+
+/* Style all elements with the class name "city" */
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+   } 
+   #hopper-links{
+    float: right;
+    width:30px;
+    margin-left: 20px;
+   }
+   #marriage-missions{
+    width: 200px;
+    padding: 10px;
+    float: left;
+    margin-right: 6px;
+    margin-bottom: 6px;
+   }
+
+</style>
+</head>
+<body>
+    <h2> Why I <span class="lovey-dovey">Love</span> cats</h2>
+    <ul>
+        <li>Furry</li>
+        <li>Cute</li>
+        <li>Evil</li>
+
+    </ul>
+    <div id="lonely-warrior"><h3> The <span class="lonely-warrior">Resilience</span> of Loneliness</h3>
+    <p class="resilience-poem">Today, <br>
+        I lazily woke up, woken, <br>
+        Physically broken, <br>
+        Mentally sullen, <br>
+        No books did I want to open, <br>
+    So, I woke up and the book I opened. <br>
+</p>
+<p class="resilience-poem">Still, I was Lazy,<br>
+With my body so heavy and hazy, <br>
+I didnt want the closet to organize, <br>
+I sat there to agonize, <br>
+But, my closet, I had to masculinize.</p>
+<p class="resilience-poem"> It is a Monday, <br>
+It is a holiday <br>
+"Why go to the gym today?" <br>
+"Ah, I will go someday," <br>
+"Ah, I will go tomorrow, it's just a today." <br>
+"Ooh, Yes, I will go at midday," <br>
+No way! <br>
+My intergrity will decay, <br>
+So, to the gym, I went, anyway.<br>
+</p>
+<p class="resilience-poem"> Alone on the way I was, <br>
+because a <strong>holiday</strong>  'twas, <br>
+No trailing, traffic, <br>
+No terrific, trilling, trolling, trucks <br>
+No dogs, drums, drunks, <br>
+Just steps, sighs, sniffles, strides, <br>
+Just muscles, bronchioles and bones. <br>
+</p>
+<p class="resilience-poem"> Inside the gym, <br>
+as silent as a grave, <br>
+a loud silence of a <em>holiday</em>, <br>
+I became hard and brave, <br>
+While I <strong>bravely heave</strong>, <br>
+To embrace pain by clamp, grip, grit, <br>
+To fix my flesh, mind, spirit, <br>
+</p>
+<p class="resilience-poem"> Because, <br>
+    the rocky path is lonelinee, <br>
+    the winding route ie emptiness, <br>
+    to the <em>mountain</em> top is steepness, <br>
+    For, it is <span class="lonely">lonely</span> at the top! <p>Author: <strong>Amerix</strong></p>
+<p> <a href= "https://www.amerix.co.ke">amerix.co.ke </a></p>
+<!-- This poem is based on a lonely man composed by Amerix, sourced from his telegram page https://www.amerix.co.ke">amerix.co.ke -->
+</div>
+<h2>Difference Between Class and ID</h2>
+<p>A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page:</p>
+<p><a href="C4">Move to chapter 1</a></p>
+<p><a href="html_demo.html#C2">Jump to Chapter 3</a></p>
+<p><a href="#C10">Move to Chapter 2</a></p>
+<h2>Chapter 1</h2>
+<p>This chapter expounds on the sgnificance of Elon Musk "Let it sink" statement to restore twitter sanity.</p>
+<h2> Chapter 2</h2>
+<p> This chapter exppains how the woman behind Trumps Twitter suspension was fired.</p>
+<h1>Elon Musk sweeps the Twitter Inc</h1>
+<button onclick="displayResult()">change text button</button>
+
+<script>
+function displayResult() {
+    document.getElementById("myHeader").innerHTML = "Elon Musk the Goat";
+}
+</script>
+
+<!-- An element with a unique id -->
+<h1 id="myHeader">My Cities</h1>
+
+<!-- Multiple elements with same class -->
+<h2 class="city">London</h2>
+<p>London is the capital of England.</p>
+
+<h2 class="city">Paris</h2>
+<p>Paris is the capital of France.</p>
+
+<h2 class="city">Tokyo</h2>
+<p>Tokyo is the capital of Japan.</p>
+<div class="photo-gallery">
+<img id="tutorials-point"src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
+<figure>
+<img id ="multibilion-gate" src="https://cdn.standardmedia.co.ke/sdemedia/sdeimages/pulse/kugate01022014thumb.jpg" alt="Multibilion gate" width="200" height="150">
+<figcaption>Fig.1 - K.U Mulitibilion Gate. </figcaption>
+<img id="Ruto" src="https://www.kenyans.co.ke/files/styles/article_inner_mobile/public/images/media/Ruto%20yesterday.jpg?itok=fUo_GaIh" width="230" height="150">
+<figcaption>Fig.2 Ruto with his CS. </figcaption>
+<img id="istockphoto" src="https://media.istockphoto.com/id/1329212883/photo/emoticon-ball-on-male-hand-on-work-table-happy-life-concepts.jpg?b=1&s=170667a&w=0&k=20&c=d-N3MdoF3-DOobfm_FjSawbHnn-NbulzdXeyrt5zA_Q=" usemap="#emoticon-ball-on-male-hand-on-work-table-happy-life-concepts.jpg" width="200" height="150">
+<figcaption> Fig.3 Dysphoric Emoji. </figcaption>
+</figure>
+</body>
+</div>
+<map name="emoticon-ball-on-male-hand-on-work-table-happy-life-concepts.jpg">
+    <area shape="circle" coords="337,300,44" alt="emoticon-ball-on-male-hand-on-work-table-happy-life-concepts.jpg" href="media.istockphoto.com">
+</map>
+
+
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page </title>
+
+</head>
+
+<body>
+
+    <h1>A classy gallery</h1>
+        
+        <img class="image-small gold-frame"src="https://www.kasandbox.org/programming-images/animals/cat.png">
+        
+        <img class="image-medium silver-frame"src="https://www.kasandbox.org/programming-images/animals/fox.png">
+        
+        <img class="image-medium black-frame" src="https://www.kasandbox.org/programming-images/animals/penguins.png">
+
+
+    <h1>Hello E Feed world. </h1>
+    <h2> HTML Playground
+        <h2 id="my headder"> My First Web page</h2>
+<p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. In odio urna, vulputate nec malesuada vel, tristique eu quam. 
+    <em>Maecenas dolor tortor</em>, accumsan vel egestas vel, hendrerit sit amet mi. 
+    <strong>Morbi sodales</strong>, quam et condimentum rhoncus, dui nisl suscipit ex, <i>vel lobortis purus</i> erat placerat quam.
+    <hr>Donec tincidunt euismod ipsum vitae eleifend. <u>Orci varius natoqu</u>e penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+    Maecenas rutrum eget ligula vel scelerisque. <b>Phasellus eleifend</b> quam non tortor feugiat, at sagittis libero maximus. 
+   
+    <body style="background-color:rgba(97, 52, 26, 0)73;"></body>
+
+    <p>For more information<b> click on the link</b> <a href="https://www.ogutuefeeds.com">EFEED NEWS </a>and learn about the pursuit for our mission.</p>
+    
+   This is my<span class="first-website>" first website </span> and I am excited to have built this an amazing html index.</b>
+   <p>This is E FEED NEWS, It offers a wider range of information cutting across all the realms of life.</p>
+   <br>
+   <p> This website is basically helping out the 21st century student to develop various skills that will help them breakthrough the real world</p>
+   However, they can test about their skills by just <b>clicking on the link below</b> <a href="https://www.jerryfeeds.com"> Jerryfeeds</a>
+<hr>  
+</p>
+<P>Upon clicking the link, it will lead one to a number items listed</P> 
+<p> One can also add in HTML internal links</p>
+<h2 id="list-nuts">Groundnuts</h2>
+   <ul>
+    <li>Nuts
+        <ul>
+            <li> <a href="#list-nuts"groundfnuts></a></li>
+            <li>Cashewnuts</li>
+            <li>butternuts</li>
+        </ul>
+    <li>Apples</li>
+    <li>Guavas</li>
+    <li>Pawpaws</li>
+   </ul>
+   <table border="7" cellpadding="8" cellspacing="3">
+    <tr>
+        <th>Months</th>
+        <th colspan="2">Rent</th>
+        <th>Utilities</th>
+        <th>Groceries</th>
+        <th>Entertainment</th>
+        <th>Travelling and tour</th>
+    </tr>
+    <tr>
+        <td>August</td>
+        <td> $800</td>
+        <td>$700</td>
+        <td> $34</td>
+        <td> $567</td>
+        <td> $553</td>
+        <td> $45</td>
+    </tr>
+         <td>September</td>
+        <td> $800</td>
+        <td>$700</td>
+        <td> $34</td>
+        <td> $567</td>
+        <td> $553</td>
+        <td> $45</td>
+    </tr>
+         <td>November</td>
+        <td> $800</td>
+        <td>$700</td>
+        <td> $34</td>
+        <td> $567</td>
+        <td> $553</td>
+        <td> $45</td>
+    </tr>
+   </table>
+   </table>
+   </table>
+<h2> My Pets </h2>
+<ul>
+    <li>Chinchilla (rabbit)</li>
+    <li>Daemon (cat)</li>
+    <li>Angel (dog)</li>
+</ul>
+<p>Prepare a table for to represent the information above</p>
+   <table border="7" cellpadding="8" cellspacing="3">
+    <thead>
+        <tr>
+            <th>Pet Name</th>
+            <th> Species</th>
+            <th>Color</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Chinchilla</td>
+            <td>Rabbit</td>
+            <td>Black and white</td>
+        </tr>
+        <tr>
+            <td>Daemon</td>
+            <td>Cat</td>
+            <td>Black</td>
+        </tr>
+        <tr>
+            <td>Angel</td>
+            <td>Dog</td>
+            <td>Brown</td>
+        </tr>
+    </tbody>
+   </table>
+<section> 
+    <h1 id="raila">RAILA'S LONG CON</h1>
+    <P class="decided">
+        Raila decided to be part of the former president's regime, a regime that the sitting president disowned in disguise. <br> However, before the elections, the so called deep state hoodwinked and assured the former PM of their robust support. <br> Little did Baba know that, this was a long con as a lot had a happened behind the scene. </P>
+    </section>
+    <section>
+        <h1>BENEFITS OF FASTING</h1>
+        <P id="fasting-magics"> Fasting is magical. <br> It has multiple benefits to our body. Infact human beinss are rewired not to eat <strong>everytime</strong>.<br> A man is expected to eat one meal a day or two meals a day, what we call OMAD and 2MAD respectively. <br> No man should think about breakfast as an important meal of the day. <br> These two works wonders in our bodies.<br> To start, fasting helps our body to go into ketosis, a process where the body produces its own energy. The energy helps to keep the brain of fire.</P>
+    </section>
+<div id="Thim-lich"><h4>THIM LICH OHINGA</h4>
+    <p>My family and I visited THIM LICH OHINGA this holiday. The place has fascinating beauties, it is an amazing place! We had a great holiday together with my family!</p>
+
+<aside>
+<h4>THIM LICH OHINGA</h4>
+<p>THIM LICH OHINGA is a traditional Luo homestead that illustrates how the Luos organised themselves socially. Cognizant of its importance, people carry special events in this place just because of its scenaries.</p>
+</div>
+</aside>
+<P> Using CSS to style aside element</P>
+<style>
+    aside {
+      width: 30%;
+      padding-left: 15px;
+      margin-left: 15px; 
+      float: right;
+      font-style: oblique;
+      background-color: aquamarine;
+}
+</style>
+<p>My family and I visited THIM LICH OHINGA this holiday. The place has fascinating beauties, it is an amazing place! We had a great holiday together with my family!</p>
+
+<aside>
+    <p>THIM LICH OHINGA is a traditional Luo homestead that illustrates how the Luos organised themselves socially. Cognizant of its importance, people carry special events in this place just because of its scenaries.</p>
+</aside> <br>
+<p>My family and I visited THIM LICH OHINGA this holiday. The place has fascinating beauties, it is an amazing place! We had a great holiday together with my family!</p>
+    <footer>
+        <p> This is footer</p>
+        <p>Author: <strong>Ogutu Jared</strong></p>
+        <p><a href="mailto:ogutujaredochieng@gmail.com">ogutujaredochieng@gmail.com</a></p>
+    </footer>
+    <nav>
+        <a href="/html/">HTML</a>|
+        <a href="/Css/">CSS</a>|
+    </nav>
+    <h2> HTML Forms</h2>
+    <form action="/action_page.php>"
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="Jared"><br>
+        <label type="sname">Second name:</label><br>
+        <input type="text" id="sname" name="sname" value=""><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Ogutu"><br>
+        <label for="pnumber"> Phone number:</label><br>
+        <input type="number" id="pnumber" number="pnumber" value="0726109365"><br><br>
+        <input type="submit" values="submit">
+    </form>
+    <h2>Radio Buttons</h2>
+    <p>Choose any riftvalley feature you know</p>
+    <form>
+<input type="radio" id="fault steps" name="rift_features" value="FAULT STEPS">
+<label for="fault steps">FAULT STEPS</Label><br>
+<input type="radio" id="fault plain" name="rift_features" value="FAULT PLAIN">
+<label for="fault plain">FAULT PLAIN</label><br>
+<input type="radio" id="escarpment" name="rift_features" value="Escarpment">
+<label for="escarpment">ESCARPMENT</label>
+    </form>   
+    <h2>HTML Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="Jared"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Ochieng"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+<h4> WEAKENESSES OF A MAN</h4>
+<p> 
+    <img id="marriage-missions"src="https://marriagemissions.com/wp-content/uploads/2010/06/Dollarphotoclub_97898124-600x411.jpg">
+    A lot has been happening in families where the father appears to be weak. <br> The mother will incite children against him, he will be seen as a wuss, a loser, and a wimp. <br> In the event the father loses his control over the family he should just configure his mental point of origin because the moment a woman realizes you are weak, she prepares a trap to ensnare you.<br> In such a case, leave them alone, walk away, live in your singularity so that you can connect with your inner masculine spirit. <br> Take this as another <strong>mishap</strong> in your journey of life. <br> You are the pilot of your starship, Your wife id just a passenger enjoying the ride. <br> <strong>Change or perish</strong> <br>
+    <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+
+    <div id="hopper-links">
+        <h3>Cool links</h3>
+        <p>Here's how you can learn more about Grace Hopper, and everything she's inspired.</p>
+        <ul>
+            <li><a href="http://en.wikipedia.org/wiki/Grace_Hopper">Wikipedia article</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1-vcErOPofQ">Grace Hopper on Letterman</a></li>
+            <li><a href="http://gracehopper.org/">Grace Hopper conference</a></li>
+        </ul>
+        
+    </div> 
+</p>
+
+</html>
+
+
+
+    
